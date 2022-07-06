@@ -44,7 +44,7 @@
     "mysql2": "^1.4.2",
     "node-fetch": "^1.7.3",
     "node-rsa": "^0.4.2",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-github": "^1.1.0",
     "passport-http": "^0.3.0",
     "passport-openid": "^0.4.0",
