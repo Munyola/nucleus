@@ -35,7 +35,7 @@
     "compression": "^1.7.1",
     "connect-redis": "^3.3.2",
     "debug": "^2.6.8",
-    "express": "^4.15.3",
+    "express": "^4.19.2",
     "express-session": "^1.15.3",
     "fs-extra": "^3.0.1",
     "hat": "^0.0.3",
