@@ -28,7 +28,7 @@
   "author": "Samuel Attard",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.119.0",
+    "aws-sdk": "^2.1593.0",
     "body-parser": "^1.17.2",
     "child-process-promise": "^2.2.1",
     "colors": "^1.2.5",
