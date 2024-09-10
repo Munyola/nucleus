@@ -29,7 +29,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "aws-sdk": "^2.119.0",
-    "body-parser": "^1.17.2",
+    "body-parser": "^1.20.2",
     "child-process-promise": "^2.2.1",
     "colors": "^1.2.5",
     "compression": "^1.7.1",
