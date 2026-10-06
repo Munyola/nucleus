@@ -32,7 +32,7 @@
     "body-parser": "^1.17.2",
     "child-process-promise": "^2.2.1",
     "colors": "^1.2.5",
-    "compression": "^1.7.1",
+    "compression": "^1.8.2",
     "connect-redis": "^3.3.2",
     "debug": "^2.6.8",
     "express": "^4.15.3",
